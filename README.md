@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Eugenius1st&fontSize=90)
-
-
+<div align="center">
+  
 [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenius1st&layout=compact&theme=synthwave)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenius1st)](https://solved.ac/eugenius1st)
+<
