@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Eugenius1st&fontSize=90)
 <div align="center">
   
 [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
