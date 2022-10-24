@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Blog: https://velog.io/@angel_eugnen
-- Project: @ReBoN
+- Project: https://github.com/RE-BON
 
 <div align="center">
 
