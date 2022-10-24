@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- Blog: https://velog.io/@angel_eugnen
+
 <div align="center">
 
 [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
