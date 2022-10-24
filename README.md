@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenius1st&layout=compact&theme=synthwave)
 
-</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenius1st)](https://solved.ac/eugenius1st)
 
-
+</div>
