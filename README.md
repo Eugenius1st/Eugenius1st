@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Eugenius1st 👋
 
 <!--
 **Eugenius1st/Eugenius1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Eugenius1st&fontSize=90)
+
+
+[![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenius1st)](https://solved.ac/eugenius1st)
