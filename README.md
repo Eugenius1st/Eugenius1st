@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
 - Project: <span><a href="https://github.com/RE-BON">RE-BON </a> /  <a href="http://pre-032-bucket.s3-website.ap-northeast-2.amazonaws.com/">StackOverFlow</a></span>
-<div align="center">
+<div align="center"> 역이요
 
 
 [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
