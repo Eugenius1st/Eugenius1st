@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <div align="center">
 
   [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
- <img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenius1st&layout=compact&theme=synthwave">
+<div>
+<img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenius1st&layout=compact&theme=synthwave">
 <img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenius1st">
-
+</div>
+  
 </div>
