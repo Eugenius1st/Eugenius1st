@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
-- Project: <span><a href="https://github.com/RE-BON">RE-BON </a> /  <a href="http://pre-032-bucket.s3-website.ap-northeast-2.amazonaws.com/">StackOverFlow</a></span> / <a href="https://github.com/Eugenius1st/yeogiyo">Yeogigo</a>
+- Project: <span><a href="https://github.com/RE-BON">RE-BON </a> /  <a href="http://pre-032-bucket.s3-website.ap-northeast-2.amazonaws.com/">StackOverFlow</a></span> / <a href="https://github.com/Eugenius1st/yeogiyo">Yeogiyo</a>
 
 <div align="center">
 
