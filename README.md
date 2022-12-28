@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Notion: <a href="https://brief-bonsai-b48.notion.site/4aa336eb36c847188256ec689eab6305">안유진|이로운 사회를 위하는 개발자</a>
+- Notion: <a href="https://brief-bonsai-b48.notion.site/4aa336eb36c847188256ec689eab6305">이로운 사회를 위하는 개발자 안유진</a>
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
 - Project: <span><a href="https://github.com/RE-BON">RE-BON </a> /  <a href="http://pre-032-bucket.s3-website.ap-northeast-2.amazonaws.com/">StackOverFlow</a></span> / <a href="https://github.com/Eugenius1st/yeogiyo">Yeogiyo</a>
 
