@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/styledComponents-DB7093?&logo=styled-components&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?&logo=Vercel&logoColor=white">
   <br/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"> <br/>  
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?&logo=Adobe Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?&logo=Adobe Illustrator&logoColor=white">  
 </div>    
@@ -46,12 +46,14 @@ Here are some ideas to get you started:
 <br/>
 
  <h2>🔥States🔥</h2>
-<div align="center">
+
+<!--   <img align='' src="https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave">   -->
   
-<!--   [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats) -->
+  [![Eugenius1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave)](https://github.com/Eugenius1st/github-readme-stats)
+  <div align="">
 <img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eugenius1st">
 <img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenius1st&layout=compact&theme=synthwave">
-<img align='' src="https://github-readme-stats.vercel.app/api?username=Eugenius1st&show_icons=true&theme=synthwave">  
+
   
 </div>
 
