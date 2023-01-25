@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/styledComponents-DB7093?&logo=styled-components&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?&logo=Vercel&logoColor=white">
   <br/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"> <br/>  
+    <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"> 
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?&logo=Adobe Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?&logo=Adobe Illustrator&logoColor=white">  
 </div>    
