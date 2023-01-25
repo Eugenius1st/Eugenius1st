@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 -->
 
-- 이력서: <a href="https://brief-bonsai-b48.notion.site/4aa336eb36c847188256ec689eab6305">Eugenius1st</a>
+- 이력서: <a href="https://www.notion.so/7836767a9bde4c72b382cf311c605946">Eugenius1st</a>
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
 - Project: <span><a href="https://github.com/RE-BON">RE-BON </a> /  <a href="http://pre-032-bucket.s3-website.ap-northeast-2.amazonaws.com/">StackOverFlow</a></span> / <a href="https://github.com/Eugenius1st/yeogiyo">Yeogiyo</a>
 
