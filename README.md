@@ -31,10 +31,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Next.js-000000?&logo=Next.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"> 
   <br/>
-    <img src="https://img.shields.io/badge/React Query-FF4154?&logo=React Query&logoColor=white">
-    <img src="https://img.shields.io/badge/Axios-5A29E4?&logo=Axios&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?&logo=Tailwind CSS&logoColor=white"> 
     <img src="https://img.shields.io/badge/styledComponents-DB7093?&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/React Query-FF4154?&logo=React Query&logoColor=white">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?&logo=Axios&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?&logo=Vercel&logoColor=white">
   <br/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"> 
