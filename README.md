@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 이력서: <a href="https://www.notion.so/49bf0731e6e64a76a923d4c9f4538d9e">Eugenius1st</a>
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
 - Project: <span><a href="https://github.com/RE-BON">RE-BON </a> / <a href="https://github.com/Eugenius1st/yeogiyo">Yeogiyo</a>  /  <a href="https://github.com/GetA-BEER/GetABeer">GetABeer</a></span>
+- Portfolio: <span><a href="https://eugenius1st.vercel.app/">Eugenius1st </a><span>
 <br/>  
 
 <div align="">
