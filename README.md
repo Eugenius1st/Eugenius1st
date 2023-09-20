@@ -1,4 +1,4 @@
-### Hello, I'm Eugenius1st ❤️🧡💛💚💙💜
+### Hello, I'm Eugenius1st 
 
 <!--
 **Eugenius1st/Eugenius1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
