@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - Notion: <a href="https://www.notion.so/49bf0731e6e64a76a923d4c9f4538d9e">Eugenius1st</a>
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
-<br/>  
 
 <div align="">
 <h2>🌱Skills🌱</h2>
