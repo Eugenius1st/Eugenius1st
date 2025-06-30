@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...⚡🎨
 -  Fun fact: ...
   <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+  - Notion: <a href="https://www.notion.so/49bf0731e6e64a76a923d4c9f4538d9e">Eugenius1st</a>
 -->
 
-- Notion: <a href="https://www.notion.so/49bf0731e6e64a76a923d4c9f4538d9e">Eugenius1st</a>
+
 - Blog: <a href="https://velog.io/@angel_eugnen">Angel_Eugenius1st</a> 
 
 <div align="">
@@ -29,15 +30,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Next.js-000000?&logo=Next.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"> 
   <br/>
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?&logo=Tailwind CSS&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?&logo=tailwindcss&logoColor=white"> 
     <img src="https://img.shields.io/badge/styledComponents-DB7093?&logo=styled-components&logoColor=white">
-    <img src="https://img.shields.io/badge/React Query-FF4154?&logo=React Query&logoColor=white">
+    <img src="https://img.shields.io/badge/React Query-FF4154?&logo=reactquery&logoColor=white">
     <img src="https://img.shields.io/badge/Axios-5A29E4?&logo=Axios&logoColor=white">
-    <img src="https://img.shields.io/badge/Vercel-000000?&logo=Vercel&logoColor=white">
-  <br/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?&logo=Adobe Photoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?&logo=Adobe Illustrator&logoColor=white">  
+      <img src="https://img.shields.io/badge/Vercel-000000?&logo=Vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/Redux-764ABC?&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-3578E5?&logo=recoil&logoColor=white">
+
 </div>    
 <br/>
 
